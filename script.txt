@@ -1,0 +1,492 @@
+SCRAPPING TIME anyways
+>orpheus very sad because his gf died :(
+> Your name is Orpheus hfjkdsl;jas
+
+	They call you Orpheus, father of songs. Your name is Orpheus. Two days ago, your wife Eurydice was killed by a fatal snake bite on her ankle. In your grief, all you carry? All you have with you are your bow, your arrows, your lyre, and a handful of olives in your pouch. I’ll type more for the intro also you’re on the outskirts of delphi
+What would you like to do? (ask for guidance from the gods/ hunt)
+> Ask for guidance from the gods
+	You recall that your father, Apollo, is the patron god of Delphi. You decide to explore the sprawling city streets to find an Appollonian altar dedicated to him, in the hopes of communicating with him. After hours of searching, you come across a modest shrine altar near the centre of the town. Five marble columns encircle a small limestone structure, with a flat surface for placing offerings.
+
+	What would you like to place on the altar? (bow and arrows/ lyre/ olives)
+	LYRE: You place your lyre on the slab. Nothing happens.
+	BOW AND ARROWS: You place your bow and arrows on the stone slab. Nothing happens. Crickets chirp...
+	OLIVES:
+	Upon being placed on the stone slab, the olives burst into flames. You watch the fruitm crackle and fizzle as the flames consume them. After a moment of silence, you hear a booming voice that you recognize as your father’s.
+
+	“HELLO, ORPHEUS. WHAT DO YOU WANT?”
+
+	You clasp your hands together and bow your head. “Please, father, I am heartbroken from Eurydice’s death.”
+
+	“YES, I COULD TELL FROM YOUR CEASELESS CRYING AND PATHETIC LYRE PLAYING. WHY ARE YOU NOT TIRED OF PLAYING A MINOR PIECES? THERE ARE FIVE OTHER MINOR KEYS THAT YOU COULD BE SAD WITH.”
+
+	“Please, is there any way I could reunite with Eurydiceher? I feel as though the world is devoid of colour without her.”
+
+	“WELL, I STRONGLY SUGGESTTHERE IS THE OPTION OF ACCEPTING HER DEATH AND MOVING ON WITH YOUR LIFE. HOWEVER,AND I SUPPOSE YOU COULD VENTURE INTO THE UNDERWORLD AND CONVINCE HADES TO REVIVE HER, BUT ONLY AN IDIOT WO--”
+
+	“Really?! I could revive her?!?”
+
+	“... OKAY. HOW ABOUT THIS. IF YOU DON’T INTERRUPT ME AGAIN, AND IF YOU STOP PLAYING YOUR LYRE FOR AN HOUR, I WILL TELL YOU HOW TO REVIVE EURYDICE.”
+
+	You nod eagerly.
+
+	A small silver coin and a crudely scribbled map appear on the stone slab. “ALRIGHT. THERE IS AN ENTRANCE TO THE UNDERWORLD AT TAENARUM. IT WILL TAKE YOU AROUND FIVE DAYS TO WALK THERE FROM DELPHI. I HAVE GIVEN YOU A MAP THAT WILL LEAD YOU THERE. FIRST, YOU WILL ENCOUNTER CHARON, WHO REQUIRES PAYMENT FOR FERRYING YOU ACROSS THE RIVER STYX. I WILL LEND YOU AN OBOL  FOR THE FARE. I’M NOT SURE IF HE WILL LET YOU ACROSS, SINCE YOU ARE STILL ALIVE, BUT YOU WILL HAVE TO FIGURE THAT OUT. HIM AND I ARE JUST ACQUAINTANCES, SO I CAN’T PULL ANY STRINGS FOR YOU THERE. THEN, YOU WILL HAVE TO ENTER HADES’ QUARTERS. HADES WILL HAVE GUARDS IN FRONT OF THE DOOR. YOU WILL HAVE TO GET PAST THEM SOMEHOW. AFTER THAT, YOU CAN CONVINCE HADES TO REVIVE EURYDICE. HE IS A REASONABLE MAN, AND HE OWES ME A FAVOUR, SO YOU SHOULD BE ABLE TO REVIVE HER AS LONG AS YOU DON’T OUTRIGHT INSULT HIM.”
+
+	“He owes you a favour? Why?”
+
+	“HE COMMISSIONED ME TO COMPOSE A THEME SONG FOR HIM, AND HE SAID HE WOULD PAY ME BACK WITH IN A FAVOUR. AT LEAST HE ISN’T PAYING ME IN ‘EXPOSURE’. YOU WILL HEAR THE SONG IT WHEN YOU MEET HIM.
+
+	“FINALLY: THE UNDERWORLD IS A DANGEROUS PLACE FOR MORTALS LIKE YOU. HERACLES MANAGED TO ENTER, BUT HE IS HERACLES. YOU, UNFORTUNATELY, ARE YOU. JUST LOOK AT YOURSELF. YOU HAVE NOT EXERCISED A DAY IN YOUR LIFE. BUT? SINCE YOU ARE MY SON, I WILL GIVE YOU MY BLESSING.” 
+
+You suddenly feel invigorated, energized, and self conscious. Upon looking at your hands, you can see a faint golden glow. Your HP increases from 20 to 25! Your self-esteem plummets from 5 to 0 (out of 100).
+
+	“MY BLESSING WILL ALSO PROTECT YOU FROM ATTACKS. HOWEVER! MY BLESSING WILL ONLY PROTECT YOU FROM THREE HITS. YOU WILL BEGIN TO TAKE DAMAGE AFTER YOU ARE ATTACKED THRICE.” 
+
+	“Thank you, but aren’t you a god with limitless power? Why not give me more protection?”
+
+	“YOU’RE LUCKY I AM PROTECTING YOU AT ALL. IF I WERE LESS FORGIVING, I WOULD HAVE SMOTE SMITED YOU AFTER THE FIRST HOUR OF YOUR LYRE. THREE DAYS! YOU HAVE BEEN PLAYING AND CRYING FOR THREE DAYS!”
+
+	“Thank you for everything, father. I don’t say this often enough, but... I love you.”
+
+	“... OKAY. HAVE FUN WITH YOUR QUEST. TRY NOT TO DIE, BECAUSE THAT WOULD EMBARRASS ME.”
+	
+	With that, the connection between you and Apollo cuts off. You get up to your feet, stashing the danake and map in your rucksack, and embark forset off to the entrance of the Underworld.
+			
+
+> Hunt
+You decide to hunt to distract yourself from your grief, and you explore the nearby forest. With your bow, you kill a small rabbit. You skin it and cook it over a fire, but your sorrow grief has robbed you of? taken away your appetite. You decide to store the flesh?? it in your pouch for later.
+
+A man with a white bushy beard stops by your campsite, and whistles. “That was some fine marksmanship with that rabbit. You pierced its eye so it wouldn’t damage the meat. Quite impressive.” yes i have taken this from the hunger games what of it
+
+You sigh. “Yes… My wife loved to eat rabbit, so I hunted to give her the best meat possible. Now that she is dead, I don’t care if my rabbit is peppered with holes. Everything is tasteless without her.”
+
+There is an awkward silence. Ever since Eurydice died, you have formed a nasty habit of venting to any random passersby.
+
+“Well, I’m sorry to hear about your wife. Although…” The man strokes his beard, deep in thought. “Earlier, I was speaking with this nice young man, Heracles. For his twelfth labour, he ventured into the Underworld, and exited without dying. Perhaps you could also enter the Underworld, and request an audience with Hades to revive her? I remember that there is an entrance somewhere near Taenarum, which is about a five days’ walk south from Delphi.”
+
+Your eyes light up. “Do you have a map?”
+
+“Yes, you’re lucky I have no intention of leaving Delphi.” He rummages around in his pack to produce a tattered but beautifully drawn papyrus map. “I remember that Heracles had said something about paying a fare for the ferryman. Do you have money?”
+
+	You shake your head. “No, I have been trying to busk on the streets of Delphi with my lyre, but the audience pays me in applause. All I have are these…” You search through your bag. “... olives from Athens.”
+
+	The man perks up. “From Athens?!? Why, those are the most sublime olives on the market! I will pay you an obol for them.”
+
+	“You have a deal!” 
+
+	The two of you exchange items, and the man bids you good luck on your journey, as you march southward for Taenarum.
+
+
+	You find the cave that Apollo/ the old man had described. Inside the cave, you discover a small staircase extending hmm underground maybe? leading into the earth. After descending, you (idk you enter hell and it’s hot what do you want from me)
+You eventually come across upon a wooden dock, and see a hooded figure standing at the stern of a gondola. that is boarded by  Ffive passengers are boarding, but theyat seem to all flicker in and out of existence. The figure is about to paddle into the open water, when you cry, “Wait! Charon! I would like to board!”
+
+	The hooded figure stops and turns towards you. He rasps, “Do you have payment?”
+
+>give charon payment
+
+	What would you like to do? (give danake/ give lyre/ give bow and arrows)
+>lyre
+	You tearfully give him your lyre. “This lyre was crafted by Apollo himself, and he gave it to me when I was born. It has the ability to charm any man or animal. This… this is my most valued possession, but I will pay anything to see Eurydice.”
+
+	Charon examines the lyre, and hands it back to you. “I do not barter with my passengers. I require money.”
+
+>bow and arrows
+
+	You gingerly remove the bow slung over your shoulder take your bow off of your back, and present it to Charon. “This bow was crafted by Apollo. It has not been polished in a few years, but it must still have some worth.”
+
+	Charon inspects the bow, and hands it back to you. “It does have some worth, I admit, it just doesn’t have any worth to me. Money, however, money, has worth to me.” OH RIGHT bows are slung i’m getting rusty on my weapon terminology
+
+>give money
+
+	You fish around in your pouch and give him the obol. He inspects it, and nods. “Hmm… this seems legitimate. But… why are you venturing into the Underworld? It is not your time yet. The Underworld is a very dangerous place, you know. A normal mortal could not survive the other end of the River Styx. Heracles succeeded but...” He looks up and down your body skeptically. You should have lifted more weights.
+(if you go the apollo route)
+	“I am here to persuade Hades to revive my wife. Don’t worry about my safety, for I am the son of Apollo, and he has blessed me.” You gesture to the faint glow that is around your body.
+
+	Charon does not seem convinced. “I suppose you do have the trademark weapons and instruments of Apollo, but those can be crafted by any mortal. And a god’s blessing can only do so much in the Underworld. Prove to me that you are his son with a song. If your playing rivals Apollo’s, I will ferry you across the Styx.” 
+>old man route
+	“I am here to persuade Hades to revive my wife. Don’t worry about my safety, for I am the son of Apollo.” You gesture to your lyre and bow.
+
+Charon does not seem convinced. “I suppose you do have the trademark weapons and instruments of Apollo, but those can be crafted by any mortal. Prove to me that you are his son with a song. If your playing rivals Apollo’s, I will ferry you across the Styx.” 
+
+> charm charon with lyre here parameters 1-3, hit a 1 you fail hit a 2,3 you succeed
+
+CHARM CHARON FAILIURE:
+You decide to take this opportunity to practice a new art form that you had been workshopping while Eurydice was still alive. You rhythmically recite freestyle poetry along to the strumming of your lyre. You decide to name this art form RAP (Rhythm And Poetry). You haven’t exactly perfected this art. The flow of your rap suffers when you focus on strumming your lyre properly, and your strumming suffers when you struggle to think of your rhymes. If Apollo were listening to your playing, he would have disowned you.
+
+Upon hearing your lyre, Charon hesitates. Then, he flips the obol back to you. Although his face is obscured under his hood, you feel like he is smirking at you. “Since you are clearly a son of Apollo, you do not need to pay. Why, Apollo would probably smite me if I did not give you a complimentary ride. Get on.” 
+
+	Ecstatic, you go to board the vessel. You step off the dock just as Charon pushes the boat away into the open water. You are unable to stop the momentum of your body and you fall into the River Styx. this is kind of a wack paragraph but idk how else to describe this maybe like you’re anticipating stepping onto the wood frame of the boat but you meet empty air?
+
+“Sorry,” Charon bellows to you, “you should have studied some more music if you were going to pretend to be Apollo’s son. I won’t be fooled that easily.”
+
+You thrash to try and get onto the dock, but you feel something dragging you into the water. The water is burning your skin as you sink deeper into the river. The last thing you see before the river swallows you is Charon’s silhouette rowing into the distance.
+
+	174
+
+CHARM CHARON SUCCESS
+	You think of the life you and Eurydice will have after you save her. With these visions, you improvise a song imbued with hope and longing. Your bittersweet song would make even the gods weep.
+
+Upon hearing your song, Charon hesitates. He rolls the danake between his sharp knuckles, deep in thought, before snapping his wrist upwards and catching the coin in midair. He nods. “Well, I suppose you really are Apollo’s son. Payment’s payment, regardless of how alive the passenger is. Get on.”
+
+	You gingerly step onto the gondola and awkwardly take a seat next to a faceless spirit that does not acknowledge your presence. With a grunt, Charon pushes his oar against the dock, and the boat lurches into the open water. The boat glides across the surface of the water as Charon rows methodically and rhythmically, and you see the dock begin to shrink into the distance. Curious, you glance over the side of the hull at the river below. You notice that neither the oar nor the boat make any ripples in the water. The only way you can tell that the river is not solid is because you see the oar dip into it. You cannot see any reflection on the smooth surface. You can feel the unbearable heat radiating from the river.
+
+The most unsettling part of the journey is the lack of sound. The river is deafeningly silent without the sound of crashing waves. None of the listless spirits next to you breathe. 
+
+	Desperate for a reprieve from the silence, you decide to strike up small talk with Charon.
+	“So… do you… like your job?”
+	
+Charon does not respond. His focus is solely on the horizon.
+
+After an eternity of silence, you pipe up again. “When are we going to reach the other end of this river? It feels like we have been on this boat for hours. I have to speak with Hades!”
+
+Charon keeps rowing. He does not acknowledge your attempts at conversation.
+
+“Uh… do you have any crazy stories? Have any of your passengers been celebrities?”
+
+Charon remains silent. He keeps rowing.
+
+“You know, I have some pretty crazy stories. There’s the time where I managed to play a better song than the Sirens, and I saved the rest of my crew from drowning. That was fun. There was also the time where I was on a boat to Hades where I was carrying the whole conversation. That was less fun.”
+
+Charon’s rhythm does not falter (or waver?) as he replies, “I am currently transporting the dead souls of people who died and are sad that they died. Also, if I wanted to, I could ferry my passengers over the Styx in a heartbeat. So why are my journeys as lengthy as they are silent? do I keep my journeys long (edit)? It is so my patrons can work through their grief over their deaths. I apologize for giving basic respect to my passengers.”
+
+You do not speak for the rest of the ride. 
+	411
+TOTAL: 585
+	
+	You can feel the heat from the river below. Curious, you peek over the,, side of the boat? Anyways, the river is pitch black. The river is really smooth like glass too!! Ohhh what if the The boat doesn’t even make ripples in the water as it glides across, and the only reason you know it’s not solid is because you see the oar move into it i guess. What if the river is really really clear so you can see all of the bones and rocks underneath and it looks shallow but it’s really deep like flathead lake!! When orpheus peeks over the port of the boat, he sees bones that seem human in size but when he drowns he actually sees that the bones are really big that’d be cool and also good for word count
+
+
+	Finally, you and the other passengers arrive at the other side, an unfathomably vast beach with nothing but black sand. You stretch out your legs and relish in the feeling of solid earth under your feet. The passengers immediately disappear the moment they step onto the sand. 
+
+	“The others are under review, and will be sent to their eternal resting places according to the merits of their actions during their lives. You want to talk to Hades, yes? Just go through those doors, he should be in his office right now .” He points towards (at?)  a pair of comically large doors.They are incredibly ornate, with sleek obsidian detailing over mahogany wood. The obsidian is carved into various pictures depicting a man and his adventures. You assume the pictures are depicting Hades. The door reminds you of the pottery in your house. Regardless of how much you strain your neck looking upwards, you cannot see the top of the door frame, and the sides of the door escape your sight, stretching out parallel to the endless beach. 
+
+	You thank Charon for his help, and march towards the doors. In front of them, a medium sized dog with sleek black fur stands in your way. Other than its three heads, it is a completely normal dog, and you estimate it is around the size of a Labrador. It is not attacking you, and is staring at you with all 6 of its eyes. 
+
+	What would you like to do?
+(fight/ use an item/ run past it)
+
+	IF use an item:
+What would you like to use? (lyre/ meat)
+LYRE:
+ANY FAILURE: The dog, angered by your chaotic and impromptu jazz, grows to triple your height. You slowly step back while maintaining eye contact, but a head snaps you up in its jaws, and you are ripped to shreds.
+Idk parameters 1,5 and anything over a 2 is a success so it’s easier to replay
+1st success: The dog sways to your melody, but it remains firmly in place. You notice a head is beginning to nod off.
+2nd success: Both the left and middle heads are fully asleep. The rightmost head is awake, but you know that it is becoming drowsy with your tune.
+3rd success: The rightmost head gives in to its sleepiness, and the dog falls into a deep slumber. You carefully tiptoe around it and slip through the doors.
+
+
+RUN FROM CERBERUS: 
+	You have already made it this far, and you are not going to be hindered by this mutt. You decide to break into a sprint, running towards the door. The three-headed dog grows in size until it completely blocks the doors. You are ripped into shreds by its three jaws. 
+
+
+
+>meat: 
+	You cautiously extract the rabbit meat from your bag and wave it before the dog’s eyes. You are not an expert in the diets of hellhounds, but the dog’s attention is solely on the meat. You fling it as far away as possible from the door, and the dog breaks into a sprint. You manage to quickly slip through the doors before the dog returns to its post.
+
+> fight:
+If you have Apollo’s blessing, you don’t take damage until the fourth hit
+
+Parameters 1-10 if you hit a 7 or over:
+One of your arrows manages to pierce an eye! The dog stumbles back in pain. Damage 7-12
+
+If you hit a 4-6: You shoot an arrow into its body, but due to your weak arms, it does not seem to pierce deeply through its flesh. Damage 1-6
+
+If you hit less than 3: Your arms are shaking vigorously with adrenaline, and you manage to miss the 30ft hellhound that is directly in front of you. 
+ 
+Dog hitting you: 
+Parameters 1-10
+>7:  The dog bats you with its paw, sending you flying about fifteen metres from the doors. Your back hits the ground, and the wind is knocked out of you. You struggle to your feet, trying to ignore the ringing in your ears as you shakily nock an arrow. Dmg 5-8
+
+4-6: The dog swipes a paw at you. Its claws slash your torso, and you grunt in pain. You stumble back, clutching your stomach and glance down at the three claw marks on your body that are beginning to bleed. Luckily, you jumped back before it hit you so that the attack did not cut you too deeply. Damage 1-4
+
+1-3: You manage to roll away from the attack!
+
+if Apollo gives you his blessing and the dog hits over a 4: The dog swipes a paw at you, and slashes your toga. You barely feel the attack, and upon inspecting your body for injuries, you do not appear to have taken any damage.
+
+Damage 10<x<20: Your breathing is laboured, and your vision is tinged with red. The memory of Eurydice’s smiling face gives you the resolve to fight.
+
+1< damage < 10: Every part of your body is shaking. Your vision is beginning to blur, and your blood stains the sand underneath you. You struggle to your feet, and weakly draw your bow. Your memories of Eurydice cannot distract you from your pain.
+
+Damage = 0: You are knocked to the ground, and you do not have the strength to get up. You wish Eurydice could hear your mental apologies? you apologize in your thoughts. You hope Eurydice will forgive your failure. Your vision fades to black as you feel the dog pick up your body in a pair of its jaws. 
+If it misses you still have 3 chances left
+
+
+Dog hp: 30
+Dog hp >20: The dog is more sluggish than before, but it does not seem to be giving up anytime soon. 
+Cerberus hp >10 The dog is struggling to stand on its feet, and you sense it will falter? and concede defeat soon.
+Cerberus HP = 0: The dog snorts, its breathing ragged. It shrinks in size until it is the size of a hare. It lies down and rests its heads on its paws. Exhausted, you stagger through the door.
+
+You have 20 HP but you get 25 with Apollo’s blessing
+
+	You enter some room. Idk how to describe hades’ place hmm does it have high ceilings and random crevices? what’s the colour scheme?
+
+	You see hades or something. Description of hades here. He’s scribbling in a notebook
+
+	“Hades! I am here to speak with you about Eurydice.”
+
+	The man does not look up from his notebook, and continues to scribble away. “Ah, you are… Orpheus, yes? Apollo’s son. You look just like your father.”
+
+	“Cut the small talk. I am here to demand the revival of my wife.”
+
+	Hades closes his notebook. “Luckily, you caught me just as I was finishing looking over my finances. Running a perpetual torture domain needs strict budgeting, you know.” He clasps his hand and leans forward. His piercing pitch-black eyes (something something look gaze?or even his eyes meet your gaze or something at yours?) “So, let’s talk, shall we?”  and stands up from his desk. You did not expect him to be so… short. Even with his perfect posture, he is a full five inches shorter than you. Despite his height, you cannot help but feel threatened by his demeanor. Something more here maybe something about his godly ~~aura~~? you’re trembling in spite of yourself?
+
+
+
+(smooth talk him/ be VERY persuasive)
+>smooth talk him
+	Hades leans back in his armchair. “Firstly, I am going to ask you a few questions as a test of your character. My puppy clearly took quite a toll on you, so let me heal you first. This way, you aren’t distracted by the pain, and you can answer my questions with a clear mind.” He snaps his fingers. You feel your bones crunch back into place, and your cuts seal up with a burning sensation. You scream. Why was healing so painful?!?
+
+	Your body is now in better condition than it has ever been. The scar on your knee from your childhood has now completely disappeared. Your body is completely blank. Your HP has been restored.
+
+	“I apologize for the pain. If you would like, I can reverse my healing.” 
+
+You shake your head fervently.
+	
+	“So, why do you think I should revive Eurydice?” (type “A” for: “I love her more than life itself. Wouldn’t you feel the same if you had lost your wife?”/ type “B” for: “Because I want to be happy. Don’t you owe my father a favour, anyways? Just revive her.”
+
+	A: Hades raises an eyebrow. “I suppose I can sympathise with you there. Every time Persephone ascends to bring your spring, summer, and autumn, I fall into a deep depression. Next question: why do you love Eurydice?
+
+	B: Hades’ expression does not change, but you know you chose the wrong answer. “Next question: why do you love Eurydice?”
+
+(A: “Why, it would take me a lifetime to list all of the reasons. Her kindness, her laugh, how she remembers every minute detail, her.../ B: Well, she is beautiful, and she could clean well. She would have made a fine wife.)
+
+	A: Hades raises his hand, and you stop babbling. “I see. Final question: something here”
+	B: You can feel the disappointment radiating from Hades. “I see. Final question: something” maybe something about what Orpheus has done to make Eurydice happy?
+
+	2 or more successes: Hades seems satisfied with your answers. “Well, your love does seem to be true. You seem like a passionate man, and I am not without reason. I am impressed. You travelled from Delphi to Taenarum, then you brave the Underworld, all for your wife? You have passed your character examination! 
+
+Now, we move onto the second part of the test: the physical examination. I will summon a monster for you to battle, to see if you will be able to protect Eurydice if I revive her. After all, you wouldn’t want to meet with me again if you fail to kill another snake, yes?” go to snake encounter
+
+	2 or more failures: Hades sighs. “You have travelled so far, and braved so many dangers to speak with me. I respect that. I do. However, you have failed your character examination. I do owe your father a favour, but I simply refuse to do this for a man like you.” He claps, and an animated skeleton bursts through the door, brandishing a sword. You attempt to flee, but you cannot outrun the skeleton. It shambles towards you with unnerving speed. The skeleton stabs you, and you can hear Apollo groan in embarrassment as your vision fades to black. You died :(
+
+SNAKE ENCOUNTER
+Hades snaps his fingers, and a hulking serpent appears before you. The serpent’s scales are a deep forest green, and dazzling emeralds form its eyes?take the place of eyes (has emeralds instead of eyes). Its fangs are dripping with an unknown substance, and the drops sizzle when they hit the floor. The room expands and morphs until you and the snake are standing on the battlefield of an amphitheatre, giving you ample space to fight. (until it resembles the inside of an amphitheatre)
+
+Hades is sitting in the front row of the audience (section?). “You will prove your strength by defeating this serpent. Snakes do not have ears, so you will not be able to charm it with your music. Oh, and as an added bonus, it is venomous. If it manages to bite you, you will take damage from the poison for three turns afterwards.”
+
+What would you like to do? (fight/run away)
+Run away: You look at the 10 foot tall serpent. It looks at you. You look at the door. It does not look at you, because it is an object. You decide to (do? commit? pull? make?) a tactical retreat. This retreat is solely based on your very clever logic, and not because you are terrified. You scamper towards the exit, but the serpent immediately grabs you with its tail. It sinks its fangs in you, and you feel the venom burning through your blood. It then flings you high into the air, and your limp body (moves gracefully along a parabola? or something about parabolic motion?? travels a parabola). Luckily, you die before you hit the ground. Game over!
+
+Snake: 20HP
+If you still have Apollo’s blessing: The serpent strikes you with its tail with such speed, you hear it crack like a whip. You are knocked into the air and land on your back with a thud, but you do not feel anything.       
+
+Poison: 30% chance of getting poison on your skin. 
+Turn 1 of poison. The poison sizzles on your skin. You try to wipe it off with your toga, but the burning does not stop. You try to ignore it and focus on the fight. -3 HP?
+
+Turn 2 of poison: The poison is still burning your skin, but the first wave of the pain is beginning to end. A second, milder (more mild? Less bad.) wave of pain is beginning to hit. Basically: The pain is slowly, but surely, becoming more bearable. -2 HP
+
+Turn 3 of poison: You can barely feel the poison on your skin. The sensation is reduced to a faint tingle on your arm. -1 HP
+
+Turn 4 of poison: You cannot feel the poison anymore!
+Maybe do -1 HP per turn, since you’re already fighting? The maximum amount of damage you can take from this fight is 10, which could be half of your HP… maybe i’ll reduce the damage the snake can do
+Parameters 1-10
+>7:  The serpent strikes you with its tail with such speed, you hear it crack like a whip. You are knocked into the air and land on your back with a thud. Your head is spinning? One of your ribs cracked? broke from the impact of the attack. You ignore the radiating pain from your chest and stumble? rise to your feet.
+Damage 3-5
+4=< dmg < 7: The serpent lunges towards you, and you jump backwards too late. Its head misses, but its scales manage to graze you. The snake is incredibly fast, and the friction from its scales gives you rug burn basically idk how to write this.
+Damage: 1-2
+
+=<3: The serpent’s attack misses!
+
+You:
+Parameters 1-10
+>7: The serpent lunges towards you. You quickly leap backwards and grab an arrow from your quiver. You manage to stab it, and as the serpent passes by you, you manage to slash along the entire length of its body. It shrieks in pain, and golden ichor oozes from the gash. Damage 7-12 :3
+3< x < 7: You shoot an arrow into its body, but it does not pierce deeply into the serpent’s flesh. Damage 1-6
+
+<3: You shoot an arrow, but it pathetically bounces off of the serpent’s scales. 0 dmg
+
+Serpent’s HP: 20
+10< HP< 20: You notice that the serpent is beginning to fatigue. Its movements are slowing, but it still seems determined to fight.
+
+0< HP < 10: The serpent’s stamina has depleted. You can see it panting, and its reflexes are definitely depreciating (in effectiveness?). 
+
+HP = 0: The serpent crashes to the ground with a thud. You scamper to the top of the snake’s head, and grab an arrow from your quiver. Mustering the last of your strength, you plunge the arrow into its brain. The snake’s tail abruptly stops wriggling.
+
+Your HP: 20-25
+10< HP< 20: You spit the blood out of your mouth and dust yourself off. You aren’t about to let a little pain stop you from saving Eurydice. 
+
+1< HP < 9: You pray that Eurydice cannot see the sorry state you are in. Your entire body is in so much pain, you forget which of your bones are broken. It is taking all of your strength to stand upright.
+
+HP = 0: You crumple to the ground, and do not have the strength to get up. The snake coils its tail around your body, and begins to squeeze. You hear the sickening crunch of your bones breaking, and black out from the pain. You died :(
+	Hades gives a standing ovation. “Well done, young hero! I honestly did not expect you to be so strong, since you…”
+
+	You snap your head at him like you turn your head really quickly to look at him basically“I dare you to say I don’t look like Heracles. I implore you to comment on my skinny arms. Please. Be my guest.”
+
+	Hades chuckles awkwardly. “Regardless, I am impressed by your performance. You have proven yourself to be a man with honour and strength.” With a snap of his fingers, your body crunches into perfect condition. >go to offer
+
+
+	> be VERY convincing: You burst into tears. Hades is clearly taken aback.
+“WHBBFDJFDJSFDIMISSHERSOMUUUUUCH AUGHGHHG!!” you blubber through your sobs. “PLEASE L;LET WSDHF ME SEE HERrrRr!!!!” You feebly pluck the strings on your lyre. The melody it produces is pitiful in how pathetic it is. You feel Hades’ eyes on you as you bawl, but you do not care about the painfully awkward situation you have created.
+
+	Hades stands up from his chair and cautiously approaches you. “Oh. Well. Okay. This is happening? There, there? Listen, I have monsters to manage, people to torture, is there any way I can make you stop crying?”
+
+	“R;;,REVI;VE HHER! PLEASE!!” You crumple to your knees at his feet. He takes two steps back, but you crawl two steps forward. (i just wanted to write this bit in and it didn’t make sense if he was in a chair)
+
+	“If I let you two leave the Underworld, will you stop crying?”
+
+	You nod pathetically.
+
+“Okay, buddy. Take some deep breaths, okay? Inhale, exhale.” You take some shuddering breaths, and he helps you to your feet. “There we go.
+OFFER
+	 How’s this for our deal? You seem like a … passionate man, and I am not without reason. I will let you leave with Eurydice’s spirit.” Hearing this, you perk up. He raises a hand. “However, Charon told me that you were quite impatient during the voyage across the Styx. So, as an added challenge, I want to test that patience. Eurydice’s spirit will follow behind you as you exit the Underworld. You will be able to leave with Eurydice’s spirit if you do not turn around to see her. If you turn around at any time while the two of you are still in my domain, Eurydice’s spirit will return to the Underworld, and I will not allow you a second chance. If you manage to travel through the Underworld without turning around to see her, she will regain her life. Do we have a deal?” He extends his hand.
+
+	You hesitate. “Will you send any of your monsters to try and trick me into turning around? Will they attack me from behind because I cannot fight back? Will they grab me by my shoulders to make me face her spirit?”
+
+	Hades shakes his head. “This is solely a test ofn your patience. You have my word that you will not face any danger on your way to the land of the living. I will not be sending any distractions that you can blame your loss on. All you have to do is walk, I swear by it.”
+
+402
+
+(accept/decline)
+
+ACCEPT:
+	You pause. Then, you shake his hand. He withdraws immediately and wipes his hands on his toga. You remember that your hands are still uncomfortably damp from the tears.
+
+“Perfect.” He ushers you out of his room. Before he closes the door, he says, “Also… make yourself look presentable, will you? You don’t want Eurydice to see you in this state.” You nod and wipe away your snot and tears. 
+
+	Hades snaps his fingers, and you feel a presence behind you. “Eurydice is behind you right now. You have my word. Remember: never turn around while you are in my domain. If you two manage to exit, you can look at her to your heart’s desire.” 
+
+	You nod. “Good,” says Hades, “Now, if you will excuse me, I have a meeting to attend. I have to ensure that suffering in my domain is as efficient as possible.” With that, his ornate doors creak shut. 
+152
+
+DECLINE:
+	You glare at Hades. “No. I do not trust you. You hold all of the cards. I cannot turn around to see Eurydice because you don’t want me to realize that you were never going to revive her. I do not know how other heroes before me have slighted you, but I feel with all of my heart that you are lying. How about something more fair, where I can verify your trustworthiness with my own eyes? If I best you in a fight, you will let me leave with Eurydice.”
+
+	Hades raises an eyebrow, but does not retract his hand. “Really? You would rather fight me, a god, instead of placing your faith in me?” 113
+
+	> change your mind and accept the offer
+You glare deep into his eyes, but you reconsider. You shake his hand. “I changed my mind. I accept your offer, and I apologize for not trusting you.”
+
+“Perfect. Thank you for apologizing. I detest false accusations.” He ushers you out of his room. Before he closes the door, he says, “Also… make yourself look presentable, will you? You don’t want Eurydice to see you in this state.” You nod and wipe away your snot and tears. 
+
+	Hades snaps his fingers, and you feel a presence behind you. “Eurydice is behind you right now. You have my word. Remember: never turn around while you are in my domain. If you two manage to exit, you can look at her to your heart’s desire.” 
+
+	You nod. “Good,” says Hades, “Now, if you will excuse me, I have a meeting to attend. I have to ensure that suffering in my domain is as efficient as possible.” With that, his ornate doors creak shut. 
+
+	> fight Hades
+	
+	“I would rather place my faith in my 0.000001% chance of winning against a god in a fight over the 0% chance of you telling the truth.”
+
+	Hades sighs, and retracts his hand. “Very well. If that is what you want, I will fight you. If you, in some wildly unlikely situation, best me in combat, I swear that I will revive Eurydice. You two can walk out of my domain and gaze at each other as much as you desire. I took pity on you, but I cannot forgive being called a liar. I will do everything in my godly powers to win. Just know that I gave you an out.” 
+
+	You place your lyre so it leans against a nearby wall, and draw your bow. Hades stands up, rising to his full height of… five feet. Despite his size, you can’t help but feel intimidated. Every part of your body screams at you to run. He does not ready himself into a fighting stance. He is standing with perfect posture. 
+(if you cry, he stands up to comfort you so you can crawl around his feet,,, hmmm is the bit worth the continuity errors)
+	Hades snaps, and music begins to play (hyperlink to clown music). “Do you like it? Your father composed it for me. I asked him to compose something that would suit me, something that would strike fear into the hearts of my enemies. Perhaps you mortals would call it… gangsta? The next time I listen to it, I will think of you.”
+
+	You shoot an arrow at his head, but he swats it away. He suddenly grows an extra two feet, towering over you. He strides over to you, and grabs your bow. The sheer strength of his grip snaps it in half instantly. With your only weapon broken, you scramble for the door, but he grabs your neck and lifts you a few feet above the ground with ease. You gasp for breath and writhe helplessly, clawing at his hand to no avail. The polka music’s volume increases to an unbearable volume. You can feel the thrumming of the percussion vibrate through your body.
+
+	“Well? Any last words before you meet Charon again?”
+
+	Through your strangled cries, you gargle, “I.. would... rather... meet... Joe.”
+
+	For a moment, Hades loosens his grip in confusion, but not enough to release you. “Joe? Who is Joe?”
+
+	With the last of your strength, you smile as your vision fades to black.
+
+GAME OVER :( try again next time!
+
+176
+
+Total: 1424
+
+> eurydice_conversation
+	You see the blinding light of the sun as you ascend the staircase. You are five steps from the exit when you hear something behind you:
+	“Turn around.”
+
+	You stop, shocked. “... Eurydice? Is that really you?”
+
+	“Yes, dear. Please turn around.”
+
+	“How do I know you aren’t some demon playing some cruel trick on me?”but with each step orpheus takes she says another line and with each step there’s a choice of (turn around/ keep walking) :D one ending is where the player never turns around despite her protests and the other is where they turn around
+
+	“I was gonna say some embarrassing secret here but couldn’t think of one because i’m too cool to be embarrassed B))yeah I was gonna suggest her calling him by an embarrassing nickname or something uhh maybe he never puts the toilet seat down idk “Oh Orphie dear, I could recognize your clobbering footsteps anywhere! Please tell me you’re still using the foot odour salve I got for you!” (also remember that this is in ancient greece so try to avoid things like sprays and other modern inventions) o fuck I thought the anachronisms were for comic effect 😔
+
+You stop walking. No one but Eurydice knows about your...unfortunate odour issues. Could it really be her?
+
+	“Why do you want me to turn around?! We are five steps from our (something). From the children we could have. From our future!”
+
+“Orphie, I was sent to the Elysian Fields. For the brief period I was there (change with “Before I was teleported to you”? Or another word besides teleported summoned maybe?), I felt happiness that I never experienced while I was alive, happiness I never could experience alive. (I felt the full force of happiness?? She was happy. She felt happiness undiluted?) Please do not take my happiness (i should edit this sentence). Turn around.”
+
+“Well, we will both inevitably die! When that happens, you will return to the Elysian Fields. Why not wait fifty years with me? Am I such a bother?”
+
+“No, I love you very much. But even now, I feel (really sad the longer i’m outside the fields). I cannot endure this depression for a second longer, much less fifty years! I do not know if I will remember my time in the Underworld once I am revived. However, I do know that if you ascend those steps, I will spend every second of our time together hating you, even if I cannot remember why. What if, in my added fifty years of life, I commit acts (actions?) so heinous, they disqualify me from Elysium? Please… just do this for me.”
+
+(keep walking/ turn around)
+Turn around at any point:
+It’s 3 am im very sleepy and can’t muster up anything emotional,,,, tearful goodbye. 
+You are “Are you sure you want me to turn around?” 
+“Yes”
+“i love you” 
+“i know. I’ll be waiting for you, orphie”
+“... I know.” 
+ turn around here, you ascend the steps and breathe in the outside air. You’ve been in the underworld for so long it’s now sunRISE because it’s the beginning of a new day/ a new life without eurydice oooo. The sky is bathed with orange more here 
+
+Keep walking:
+You take a step forward. Something about you can feel the sun more now or something.
+
+	Eurydice’s tone is tinged with desperation. “Orphie, please turn around. I know you love me, but please let me go.”
+	Keep walking:
+
+	You are now three steps from the exit. More description here.
+Eurydice’s voice grows? is more desperate.“Orphie! Orphie. Please, don’t do this. Turn around, it’s okay.”
+
+	Keep walking
+
+	You are now two steps before the exit. Something something.
+	Eurydice is on the verge of tears, and her voice is wavering. “Orpheus! Do you love me?”
+
+	You clench your fists in frustration (like you’re torn about your decision) “Of course I love you!” 
+	“Do you want me to be happy?”
+	“Yes!”
+	“Then do this for me! Please! If you exit, I will never be happy again.”
+	“Are you happier in Elysium… than with me?”
+	“...” 
+	Keep walking
+
+	You feel something clutch your hand, (like it’s not totally solid and is more of like a cold presence? Since she’s not fully human yet) (something about how it takes a lot of effort to not turn around.) (also you’re at the last step)
+
+	“Please… Orpheus… turn around… do you want me to be happy, or do you want to be happy (edit this, something like are you just using me for your happiness)
+	
+	You open your mouth, but do not have any words for her. 
+
+	“Orpheus, I know you will do just fine without me. You’re a reliable man. If you could traverse the Underworld alone, you can walk the Earth without me. Please… let me go.”
+	Keep walking
+	
+	You exit, you turn around, you try to embrace Eurydice but she pushes you off, she’s in tears, she walks away, also it’s sunset because it’s the end of your relationship with eurydice oooooo im sleepy this ain’t that deep
+Basically eurydice is in elysia and was happy and pleads with orpheus to turn around and let her be happy if he really loves her
+
+OPENING TEXT
+	It is 3pm. You are standing in your kitchen, listlessly refreshing the same three applications on your phone. There is no new content, and the same terrible news flash before your dissociated eyes. The date is unknown; you had lost track of time a few days after March 15th, but you suspect it is either March 18th, or April 52nd. Regardless of the date, you can see that it is a beautiful day outside through your windows. Sunshine bathes the room in a nostalgic glow, reminiscent of the lazy summer Sundays of your childhood. The trees have begun to flower, and you hear the chirping of the robins returning from their winter sabbatical. It is a beautiful day, and there is a fat fly in the sink.
+
+	The fly is unnecessarily large. You know that it is only slightly larger than an average house fly, but you still feel as though it could feasibly carry a small child. You hear it buzzing and bumping into your unwashed dishes. The fly has been bumbling around your kitchen for either the last ten minutes or the last two hours. If you do not do something about it, you feel as though you will burst into flames.
+
+What would you like to do?
+>take newspaper
+>take pan
+
+	Your hands are shaking from the combination of fear and low blood sugar. Most of your pans are in the sink, except for one
+
+>think of a plan
+
+You stop and take some deep breaths. Because of this, your hands stop shaking (and you’re more likely to hit?) and your mind clears. What would be the optimal strategy to eradicate this new opponent?
+
+ Perhaps you should first consider previous elimination methods that you have observed in your life. You reflect on when you went to your friend Laertes’ house for dinner once, when a cockroach had crawled onto the window. Brashly, Laertes had struck the cockroach with such force, he shattered the glass, and had to undergo intensive reconstructive surgery on his hand. Such hastiness would surely not benefit you.
+
+Yet, why kill the fly? There is the possibility of a commensalistic relationship with the fly. Should you kill the fly for simply existing near you? For trying to survive in this world, like you, and the billions of other creatures on this earth? 
+
+You remember your mother, and the tiny tomato plant she had gifted you as a housewarming gift when you moved out. It is a cutting from the main tomato plant she had spent years cultivating. You recall that flies feed on organic material. You realize that, by not eliminating this threat, your inaction actively allows her hard work to fall to ruin.Your hands clench into a fist. You are filled with resolve to remove this fly, be it through its death or release. 
+
+You begin to reach for something that could help you, but your phone illuminates with a notification. Because of this, you see the time -- 6pm. You have been standing in place for the past three hours calculating every possible method, with the fly still at large. You look around the kitchen. You do not hear the characteristic buzz of the enemy. You determine that the fly is not in the kitchen. What would you like to do?
+
+>inspect the bathroom
+
+
+You cautiously examine your bathroom, as well.  After half an hour of meticulous inspection, you determine that the room is fly-free. 
+
+>inspect the bedroom
+
+Finally, you inspect your bedroom. Despite your incredibly rigorous efforts, you cannot find the fly. The fly has disappeared from your sight, but you know that the fly must still be in the vicinity, as the only ventilation your unit has is your single window, and you have miraculously avoided carbon monoxide poisoning. 
+
+Your overthinking has allowed the enemy to escape from justice. You reflect on the young Norweigan ambassador, Fortinbras. When a spider had appeared on his desk, he had swiftly sweeped it up with one of his papers, and he quietly deposited it into a garbage can nearby. He had the initiative to take action, and acted in a timely manner without being reckless. An overwhelming sense of failure crashes over you. This bright-eyed 
+
+What have you done today? What have you done since March 15th? Sleep? Eat? Scroll through various social media applications? Considering that, you are no more than a beast. Through however millions of years that humans have been on this earth, they evolved to have a larger brain, maximizing their ability to strategize and solve problems. Your brain, however, has rusted with disuse. While your fellow humans claw to the top of the food chain, you are the only one digging. Sith you have cause and will and strength and means to do ’t. You bury your face in your hands and sigh deeply. Then you burst into flames? I’m not sure how to end this, i was thinking he could just move apartments 
+GENERAL CHARACTER GROWTH FOR HAMLET aka player character
+Starts off really scared of the fly, i guess
+
