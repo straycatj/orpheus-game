@@ -1,0 +1,185 @@
+import random
+import time
+
+def intro():
+  print("They call you Orpheus, father of songs. Two days ago, your wife Eurydice was killed by a serpent's bite. Ever since then, your grief has consumed your entire being edit this.") 
+  print("Purposeless edit this, you have been drifting from city to city in search of your lost happiness also edit this.")
+  print("Currently, you are on the southern outskirts of Delphi. A lush forest borders the city. write more")
+  print("In your grief, all you carry is your bow, your quiver of arrows, your lyre, and a handful of olives.") 
+
+def bad_ending():
+  print("Game over! Better luck next time.") 
+  exit()
+
+def apollo_conversation():
+  print("You recall that your father, Apollo, is the patron god of Delphi. You decide to explore the sprawling city streets to find an Appollonian shrine, in the hopes of communicating with him.")
+  print("After hours of searching, you come across a modest shrine altar near the centre of the town. Five marble columns encircle a small limestone structure, with a flat surface for placing offerings.")
+  time.sleep(3)
+
+while answer != "bow and arrows" and answer != "lyre" and answer != "olives":
+    answer = input("What would you like to place on the altar? (bow and arrows/lyre/olives)")
+    print("")
+    if answer == "bow and arrows":
+      print("You place your bow and arrows on the stone slab. Nothing happens.")
+    if answer == "lyre":
+      print("You place your lyre on the stone slab. Nothing happens.")
+    if answer == "olives":
+      print("Upon being placed on the stone slab, the olives burst into flames. You watch the fruit pop and crackle as the flames consume them. After a moment of silence, you hear a booming voice that you recognize as your father’s.")
+      inventory.append("obol")
+      print("'HELLO, ORPHEUS. WHAT DO YOU WANT?'")
+      time.sleep(2)
+      print("You clasp your hands and bow your head. 'Father, I am heartbroken from Eurydice's death.'")
+      print("'YES, I COULD TELL FROM YOUR CEASELESS CRYING AND PATHETIC LYRE PLAYING. WHY ARE YOU NOT TIRED OF PLAYING A MINOR PIECES? THERE ARE FIVE OTHER MINOR KEYS THAT YOU COULD BE SAD WITH.")
+      print("'Please, is there any way I could reunite with my love? I feel as though the world is devoid of colour without her presence.'")
+      time.sleep(2)
+      print("'WELL, I STRONGLY SUGGEST YOU ACCEPT HER DEATH AND MOVE ON WITH YOUR LIFE. I SUPPOSE IF YOU REALLY WANTED TO, YOU COULD VENTURE INTO THE UNDERWORLD AND CONVINCE HADES TO REVIVE HER, BUT ONLY AN IDIOT WO--'")
+      print("'Really?! I can revive her?!?")
+      time.sleep(2)
+      print("'... OKAY. HOW ABOUT THIS. IF YOU DON’T INTERRUPT ME AGAIN, AND IF YOU STOP PLAYING YOUR LYRE FOR AN HOUR, I WILL TELL YOU HOW TO REVIVE EURYDICE.'")
+      print("You nod eagerly.")
+      print("A small silver coin and a crudely scribbled map appear on the stone slab. 'ALRIGHT. THERE IS AN ENTRANCE TO THE UNDERWORLD AT TAENARUM. IT WILL TAKE YOU AROUND FIVE DAYS TO WALK THERE FROM DELPHI. I HAVE GIVEN YOU A MAP THAT WILL LEAD YOU THERE. FIRST, YOU WILL ENCOUNTER CHARON, WHO REQUIRES PAYMENT FOR FERRYING YOU ACROSS THE RIVER STYX. I WILL LEND YOU AN OBOL  FOR THE FARE. I’M NOT SURE IF HE WILL LET YOU ACROSS, SINCE YOU ARE STILL ALIVE, BUT YOU WILL HAVE TO FIGURE THAT OUT. HIM AND I ARE JUST ACQUAINTANCES, SO I CAN’T PULL ANY STRINGS FOR YOU THERE.")
+      print("'THEN, YOU WILL HAVE TO ENTER HADES’ QUARTERS. HADES WILL HAVE GUARDS IN FRONT OF THE DOOR. YOU WILL HAVE TO GET PAST THEM SOMEHOW. AFTER THAT, YOU CAN CONVINCE HADES TO REVIVE EURYDICE. HE IS A REASONABLE MAN, AND HE OWES ME A FAVOUR, SO YOU SHOULD BE ABLE TO REVIVE HER AS LONG AS YOU DON’T OUTRIGHT INSULT HIM.'")
+      input("Press Enter to continue...")
+      print("'He owes you a favour? Why?'")
+      print("'HE COMMISSIONED ME TO COMPOSE A THEME SONG FOR HIM, AND HE SAID HE WOULD PAY ME BACK WITH A FAVOUR. AT LEAST HE ISN'T PAYING ME IN 'EXPOSURE'. YOU WILL PROBABLY HEAR IT WHEN YOU MEET HIM.")
+      print("FINALLY: THE UNDERWORLD IS A DANGEROUS PLACE FOR MORTALS LIKE YOU. HERACLES MANAGED TO ENTER, BUT HE IS HERACLES. YOU, UNFORTUNATELY, ARE YOU. JUST LOOK AT YOURSELF. YOU HAVE NOT EXERCISED A DAY IN YOUR LIFE.SINCE YOU ARE MY SON, I WILL GIVE YOU MY BLESSING.")
+      input("Press Enter to continue...")
+      print("You suddenly feel invigorated, energized, and self conscious. Upon looking at your hands, you can see a faint golden glow. Your HP increases from 20 to 25! Your self-esteem plummets from 5 to 0 (out of 100).")
+      print("MY BLESSING WILL ALSO PROTECT YOU FROM ATTACKS. HOWEVER! MY BLESSING WILL ONLY PROTECT YOU FROM THREE HITS. YOU WILL BEGIN TO TAKE DAMAGE AFTER YOU ARE ATTACKED THRICE.")
+      print("Thank you, but aren’t you a god with limitless power? Why not give me more protection?") 
+      print("YOU’RE LUCKY I AM PROTECTING YOU AT ALL. IF I WERE LESS FORGIVING, I WOULD HAVE SMOTE YOU AFTER THE FIRST HOUR OF YOUR LYRE. THREE DAYS! YOU HAVE BEEN PLAYING AND CRYING FOR THREE DAYS!")
+      print("Thank you for everything, father. I don’t say this often enough, but... I love you.")
+      print("... OKAY. HAVE FUN WITH YOUR QUEST. TRY NOT TO DIE, BECAUSE THAT WOULD EMBARRASS ME.")
+      time.sleep(1)
+      print("With that, the connection between you and Apollo cuts off. You get up on your feet, stash the map and obol in your bag, and embark for the entrance to the Underworld.")
+
+def old_man_conversation(): 
+  print("You decide to hunt to distract yourself from your grief, and you explore the nearby forest. With your bow, you kill a small rabbit. You skin it and cook it over a fire, but your grief has robbed you of your appetite. You decide to store the cooked meat in your bag for a later meal.")
+  print("A man with a white bushy beard stops by your campsite, and whistles. 'That was some fine marksmanship with that rabbit. You pierced its eye so it wouldn’t damage the meat. Quite impressive.'")
+  print("You sigh wistfully. 'Yes… My wife loved to eat rabbit, so I hunted to give her the best meat possible. Now that she is dead, I don’t care if my rabbit is peppered with holes. Everything is tasteless without her.'")
+  input("Press Enter to continue...")
+  print("There is an awkward silence. Ever since Eurydice died, you have formed a nasty habit of venting to any random passersby.")
+  print("'Well, I’m sorry to hear about your wife. Although…' The man strokes his beard, deep in thought. 'Earlier, I was speaking with this nice young man, Heracles. For his twelfth labour, he ventured into the Underworld, and exited without dying. Perhaps you could also enter the Underworld, and request an audience with Hades to revive her? I remember that there is an entrance somewhere near Taenarum, which will take you about five days to walk to from Delphi.'")
+  input("Press Enter to continue...")
+  print("'Your eyes light up. 'Do you have a map?'")
+  print("'Yes, you’re lucky I have no intention of leaving Delphi.' He rummages around in his pack to produce a tattered but beautifully drawn papyrus map. 'I remember that Heracles had said something about paying a fare for the ferryman. Do you have money?'")
+  print("You shake your head. 'No, I have been trying to busk on the streets of Delphi with my lyre, but the audience pays me in applause. All I have are these…' You search through your bag. '... olives from Athens.'")
+  print("The man perks up. 'From Athens?!? Why, those are the most sublime olives on the market! I will pay you an obol for them.'")
+  print("'You have a deal!'")
+  print("The two of you exchange items, and the man bids you good luck on your journey, as you march southward for Taenarum.")
+
+def charon_encounter():
+  print("You discover the cave that the map had described. Inside the cave, you discover a narrow staircase that descends into the earth. The staircase leads into a beach that is covered with an incomprehensible amount of jagged shards of obsidian, with a gravel path leading to a wooden dock. By the dock, you see a hooded figure standing at the stern of a gondola. Five passengers have already boarded, and they all seem to flicker in and out of existence. The figure is about to paddle into the open water, when you cry, 'Wait! Excuse me! I would like to board!'")
+  input("Press Enter to continue...")
+  print("The hooded figure stops and turns towards you. He rasps, 'Do you have payment?'")
+  while answer != ("bow and arrows") and answer != ("lyre") and answer != ("obol"):
+    answer = input("What would you like to pay with? (bow and arrows/lyre/obol)")
+    if answer == "bow and arrows": 
+          print("You gingerly remove the bow slung over your shoulder and present it to Charon. 'This bow was crafted by Apollo. It has not been polished in a few years, but it must still have some worth.'")
+          print("Charon inspects the bow, and hands it back to you. 'It does have some worth, I admit, it just doesn’t have any worth to me. Money, however, that has worth to me.'")
+    if answer == "lyre":
+        print("You tearfully give him your lyre. 'This lyre was crafted by Apollo himself, and he gave it to me when I was born. It has the ability to charm any man or animal. This… this is my most valued possession, but I will pay anything to see Eurydice.'")
+        input("Press Enter to continue...")
+        print("Charon examines the lyre, and hands it back to you. 'I do not barter with my passengers. I require money.'")
+    if answer == "obol":
+        print("You fish around in your pouch and produce an obol. You seem to have piqued Charon's interest. He inspects the coin, and nods.")
+        input("Press Enter to continue...")
+        print("'Hmm… this seems legitimate. But… why are you venturing into the Underworld? It is not your time yet. The Underworld is a very dangerous place, you know. A normal mortal could not survive the other end of the River Styx. Heracles succeeded but...'")
+        print("He looks up and down your body skeptically. You shouldn't have skipped arm day. Or leg day. Or all of the other days.")
+        input("Press Enter to continue...")
+
+def cerberus_fight():
+  cerberus_health = 30
+  orpheus_health = 20
+  if apollo_conversation == True
+    orpheus_health = 25
+  
+  while answer != ("attack") and answer != ("use an item"):
+    if answer == "attack":
+def cerberus_encounter
+  print("Finally, you and the other passengers arrive at the other side, an unfathomably vast beach with nothing but black sand. You stretch out your legs and relish in the feeling of solid earth under your feet. The passengers immediately disappear the moment they step onto the sand. ")
+  input("Press Enter to continue...")
+  print("'The others are under review, and will be sent to their eternal resting places according to the merits of their actions during their lives. You want to talk to Hades, yes? Just go through those doors, he should be in his office right now .' Charon points towards a pair of comically large doors. They are incredibly ornate, with sleek obsidian detailing over mahogany wood. The obsidian is carved into various pictures depicting a man and his adventures. You assume the pictures are depicting Hades. The door reminds you of the pottery in your house. No amount of craning your neck upwards allows you to see the top of the doors, and the sides of the door escape your sight, stretching out parallel to the endless beach.")
+  input("Press Enter to continue...")
+  print("You thank Charon for his help, and march towards the doors. In front of them, a medium sized dog with sleek black fur stands in your way. Other than its three heads, it is a completely normal dog, and you estimate it is around the size of a Labrador. It is not attacking you, and is staring at you with all 6 of its eyes.")
+  
+  while answer != "fight" and answer != "run past it":
+    answer = input("What would you like to do? (fight/run past it)")
+    print("")
+    if answer == "run past it":
+      print("You have already made it this far, and you are not going to be hindered by this mutt. You decide to break into a sprint, running towards the door. The three-headed dog grows in size until it completely blocks the doors. You are ripped into shreds by its three jaws.")
+      bad_ending()
+    if answer == "fight":
+      cerberus_fight()
+
+def hades_conversation():
+  while answer != "convincingly" and answer != "VERY convincingly":
+    answer = input("How would you like to talk to Hades? (convincingly/VERY convincingly)")
+    print ("")
+    if answer == "VERY convincingly":
+      print("You burst into tears. Hades is clearly taken aback.")
+      print("'WHBBFDJFDJSFDIMISSHERSOMUUUUUCH AUGHGHHG,' you blubber through your sobs. 'PLEASE L;LET WSDHF ME SEE HERrrRr!!!!' You feebly pluck the strings on your lyre. The melody it produces is pitiful in how pathetic it is. You feel Hades’ eyes on you as you bawl, but you do not care about the painfully awkward situation you have created.")
+      input(Press Enter to continue...)
+      print("Hades stands up from his chair and cautiously approaches you. 'Oh. Well. Okay. This is happening? There, there? Listen, I have monsters to manage, people to torture, is there any way I can make you stop crying?'")
+      print("'R;;,REVI;VE HHER! PLEASE!!' You crumple to your knees at his feet. He takes two steps back, but you crawl two steps forward. ")
+      print("'If I revive your wife, will you stop crying?'")
+      print("You nod pathetically.")
+      input("Press Enter to continue...")
+      print("'Okay, buddy. Take some deep breaths, okay? Inhale, exhale.'")
+      print("You take some shuddering breaths, and he helps you to your feet. 'There we go.'")
+      offer()
+    if answer == "convincingly":
+      print("Hades leans back in his chair. 'Firstly, I am going to ask you a few questions to evaluate your character.'")
+      if orpheus_health < 25:
+        print("Hades glances at your wounds. 'Well, my puppy clearly took a toll on you. Thank you for playing with him, by the way. He needs enrichment, and guarding my doors is quite boring. Before I begin the interview, I will heal you. This way, you aren't distracted by any pain and you can answer my questions with a clear mind.'")
+        print("He snaps his fingers. You feel your bones crunch into place, and you can feel their cracks sealing. You feel the gashes closing, with a burning sensation as if your cuts were being welded together. You scream. Why is healing so painful?!")
+        input("Press Enter to continue...")
+        print("Your body is now in better condition than it has ever been. The scar on your knee from your childhood has now completely disappeared. Your body is completely blank. Every part of your body is shaking uncontrollably from the experience. Your HP has been restored.")
+        print("'Oh, I apologize, was my healing painful? Healing is not my forte. If you would like, I can reverse it.' Hades pinches his middle finger and thumb together, and you fervently shake your head.")
+        interview1()
+      if orpheus_health = 25:
+        interview1()
+
+def interview1():
+  while answer != "A" and answer != "B":
+    answer = input("So, why do you believe I should revive Eurydice? (type A for: 'I love her more than life itself. Wouldn’t you feel the same if you had lost your wife?'/type B for 'Because I want to be happy. Don't you owe my father a favour, anyways? Just revive her already.'")
+    if answer == "A":
+      print("Hades raises an eyebrow. 'I suppose I can sympathise with you there. Every time Persephone ascends to bring your spring, summer, and autumn, I fall into a deep depression.'")
+      interview2()
+    if answer == "B":
+      print("Hades' expression does not change, but you can see a glint of disappointment in his eyes.")
+      interview2()
+
+def interview2():
+  while answer != "A" and answer != "B":
+    answer = input("Next question: why do you love Eurydice?' (A: 'Why, it would take me a lifetime to list all of the reasons. Her kindness, her laugh, how she remembers every minute detail, her...'/B: ' Well, she is beautiful, and she could clean well. She would have made a fine wife.'")
+    if answer == "A":
+      print("Hades raises a hand, and you stop babbling. 'I understand, you need not go on.'")
+      interview3()
+    if answer == "B":
+      print("You can feel the judgement radiating from Hades.")
+      interview3()
+
+def interview3():
+  while answer != "A" and answer != "B":
+    answer = input("Final question.")
+
+
+
+
+    
+inventory = []
+used = []
+
+this is the beginning of the Game
+intro()
+answer = "blank"
+while answer != "ask for guidance from the gods" and answer != "hunt":
+    answer = input("What would you like to do? (ask for guidance from the gods/hunt)")
+    print("")
+    if answer == "ask for guidance from the gods":
+      apollo_conversation()
+    elif answer == "hunt":
+      old_man_conversation()
+charon_encounter()
+  
