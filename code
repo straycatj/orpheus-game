@@ -47,6 +47,7 @@ while answer != "bow and arrows" and answer != "lyre" and answer != "olives":
       print("You suddenly feel invigorated, energized, and self conscious. Upon looking at your hands, you can see a faint golden glow. Your HP increases from 20 to 25! Your self-esteem plummets from 5 to 0 (out of 100).")
       print("MY BLESSING WILL ALSO PROTECT YOU FROM ATTACKS. HOWEVER! MY BLESSING WILL ONLY PROTECT YOU FROM THREE HITS. YOU WILL BEGIN TO TAKE DAMAGE AFTER YOU ARE ATTACKED THRICE.")
       print("Thank you, but aren’t you a god with limitless power? Why not give me more protection?") 
+      
       print("YOU’RE LUCKY I AM PROTECTING YOU AT ALL. IF I WERE LESS FORGIVING, I WOULD HAVE SMOTE YOU AFTER THE FIRST HOUR OF YOUR LYRE. THREE DAYS! YOU HAVE BEEN PLAYING AND CRYING FOR THREE DAYS!")
       print("Thank you for everything, father. I don’t say this often enough, but... I love you.")
       print("... OKAY. HAVE FUN WITH YOUR QUEST. TRY NOT TO DIE, BECAUSE THAT WOULD EMBARRASS ME.")
